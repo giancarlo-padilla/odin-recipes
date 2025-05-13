@@ -1,0 +1,51 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+div {
+    margin: 50px auto;
+    width: 70%;
+}
+
+a,
+p,
+h1,
+h3,
+img {
+    display: block;
+    text-align: center;
+}
+
+a,
+img {
+    margin: 10px auto;
+    border: 5px solid rgba(106, 126, 239, 0.505);
+    border-radius: 4px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+a {
+    width: 30%;
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: inside;
+    padding: 0;
+    width: 50%;
+}
+
+.medium-image {
+    width: 300px;
+}
+
+.large-image {
+    width: 500px;
+}
